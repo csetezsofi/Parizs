@@ -4,6 +4,15 @@ body {
     color: rgb(0, 0, 139);
 }
 
+#fejlec {
+    background-image: url(notredame.jpg);
+    height: 200px;
+}
+
+#fejlec [h1] {
+    font-size: 48pt;
+    text-align: center;
+}
 .tartalom {
     max-width: 1000px;
     margin-left: auto;
