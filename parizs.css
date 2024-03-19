@@ -77,6 +77,10 @@ table, table th, table td
     border-collapse: collapse;
 }
 
+table th {
+    text-align: center;
+}
+
 #latnivalok table tr > td:nth-child(1) {
   width: 210px;
 }
